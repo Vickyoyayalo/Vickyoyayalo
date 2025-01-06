@@ -1,4 +1,4 @@
-## Hi there 🙋🏻‍♀️ I'm Vicky!   **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vickyishere)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vickyoyaya@gmail.com)**
+## Hi there 🙋🏻‍♀️ I'm Vicky Liu!   **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vickyishere)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vickyoyaya@gmail.com)**
 
 ✨ _iOS Developer in Taiwan_ ✨
 
